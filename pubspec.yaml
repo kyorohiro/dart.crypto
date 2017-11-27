@@ -1,0 +1,14 @@
+name: dart.crypto
+version: 0.0.1
+description:
+author: kyorohir
+
+environment:
+  sdk: '>=2.0.0-dev.7.0'
+
+dependencies:
+  bignum: any
+
+dev_dependencies:
+  test: any
+
