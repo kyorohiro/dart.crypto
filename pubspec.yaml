@@ -11,4 +11,5 @@ dependencies:
 
 dev_dependencies:
   test: any
+  crypto: any
 
